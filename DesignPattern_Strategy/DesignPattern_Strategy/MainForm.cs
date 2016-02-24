@@ -2,9 +2,12 @@
 
 namespace DesignPattern_Strategy
 {
-    public partial class Form1 : Form
+    /// <summary>
+    /// 主窗体
+    /// </summary>
+    public partial class MainForm : Form
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
         }
